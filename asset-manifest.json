@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.02118575.css",
+    "main.js": "/React/static/js/main.b1667550.js",
+    "static/js/787.36f02712.chunk.js": "/React/static/js/787.36f02712.chunk.js",
+    "static/media/fa-solid-900.ttf": "/React/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/React/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/React/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/React/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/React/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/cabin.png": "/React/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/fa-regular-400.woff2": "/React/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/avataaars.svg": "/React/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/React/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/React/index.html",
+    "main.02118575.css.map": "/React/static/css/main.02118575.css.map",
+    "main.b1667550.js.map": "/React/static/js/main.b1667550.js.map",
+    "787.36f02712.chunk.js.map": "/React/static/js/787.36f02712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02118575.css",
+    "static/js/main.b1667550.js"
+  ]
+}
