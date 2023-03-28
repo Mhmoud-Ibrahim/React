@@ -1,0 +1,60 @@
+.masthead{
+    background-color: #1abc9c !important;
+}
+.masthead-heading{
+    font-family:Montserrat
+    -apple-system
+    BlinkMacSystemFont
+    "Segoe UI"
+    Roboto
+    "Helvetica Neue"
+    Arial
+    "Noto Sans"
+    sans-serif
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji" ;
+    font-size: 64px !important;
+    font-weight:700 ;
+}
+.masthead-subheading{
+    font-size:24px !important ;
+    font-weight: 400;
+    font-family:Lato
+    -apple-system
+    BlinkMacSystemFont
+    "Segoe UI"
+    Roboto
+    "Helvetica Neue"
+    Arial
+    "Noto Sans"
+    sans-serif
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji" ;
+}
+
+.divider-custom{
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.divider-custom .line {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color:#ffffff !important;
+    border-radius: 1rem;
+}
+#star{
+    color: #fefefe!important;
+}
+ /* #2c3e50 */
+ .masthead-avatar{
+    width:220px !important;
+ }

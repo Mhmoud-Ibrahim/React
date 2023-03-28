@@ -1,0 +1,32 @@
+.contact{
+    margin-top: 120px;
+}
+.contact-heading{
+    font-family:Montserrat
+    -apple-system
+    BlinkMacSystemFont
+    "Segoe UI"
+    Roboto
+    "Helvetica Neue"
+    Arial
+    "Noto Sans"
+    sans-serif
+    "Apple Color Emoji"
+    "Segoe UI Emoji"
+    "Segoe UI Symbol"
+    "Noto Color Emoji" ;
+    font-size: 55px !important;
+    font-weight:600 ;
+    color: #2c3e50 !important;
+}
+::placeholder{
+    font-size:25px !important;
+    color: gray;
+}
+.sendBtn{
+background-color: #1abc9c;
+    font-weight: 700;
+}
+.sendBtn:hover{
+    background-color: #05a081;
+}
